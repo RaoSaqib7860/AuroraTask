@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982676443425",
+    "project_id": "arorasolution-c92fe",
+    "storage_bucket": "arorasolution-c92fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982676443425:android:6f0415687fc39035572e60",
+        "android_client_info": {
+          "package_name": "com.example.aurora_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982676443425-0s05ml0rsenlsd8uvtcmo8spia3a3fsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aurora_task",
+            "certificate_hash": "78447d67cde4affe6665af932d6730d3dfe8b823"
+          }
+        },
+        {
+          "client_id": "982676443425-9pqa7aub9vgc89on870oc1rnd87355vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmtJyUUqvuVRMAkq0nUy_Kv2BAK6p_VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982676443425-9pqa7aub9vgc89on870oc1rnd87355vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
